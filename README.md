@@ -2,7 +2,7 @@
 
 This project was a multi-step venture intended to illustrate the rapid growth exhibited by the sport of disc golf in recent years. My efforts ultimately resulted in the following animation. Project details are outlined in the remaining documentation.
 
-![Final GIF](https://i.imgur.com/5vJWtPq.gif)
++<img src="/images/_DiscGolfVisualization.gif?raw=true" width="1000px">
 
 ### Project Overview
 
